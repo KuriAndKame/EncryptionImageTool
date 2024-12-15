@@ -1,3 +1,6 @@
 # EncryptionImageTool
-# EncryptionImageTool
-# EncryptionImageTool
+
+Код в данном репозитори является семестровой работой по сетям.
+Данное приложение шифрует изображения разными методами, а также предоставляет GUI для этого.
+Используемые методы шифрования: AES, RSA, 3DES, Caesar Cipher.
+Используемые библиотеки: PyCryptodome.
